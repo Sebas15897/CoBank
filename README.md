@@ -16,6 +16,8 @@ GRUPO:
 -Breyner Quintero
 -Sharick Reina
 
+Lenguajes Empleados: Angular y FireBase
+
 LOGO:
 
 ![2f5f4b29-3af1-4470-8208-f692836389bd](https://user-images.githubusercontent.com/129232493/234123718-1e0eb5de-205a-4ff9-b5ef-8c5e602ea531.jpg)
